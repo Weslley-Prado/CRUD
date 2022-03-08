@@ -1,29 +1,3 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Weslley Prado",
-      "email": "weslley.prado73@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "Laisa Prado",
-      "email": "laisac.rossim@gmail.com"
-    },
-    {
-      "name": "Weslley Prado",
-      "email": "weslley.prado73@gmail.com",
-      "id": 3
-    },
-    {
-      "name": "Weslley Prado",
-      "email": "weslley.prado73@gmail.com",
-      "id": 4
-    },
-    {
-      "name": "Professor Newton",
-      "email": "professornewton@westhightechnology.com.br",
-      "id": 5
-    }
-  ]
+  "users": []
 }
